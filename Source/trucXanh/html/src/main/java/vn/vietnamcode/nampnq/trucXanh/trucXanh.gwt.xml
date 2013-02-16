@@ -1,0 +1,10 @@
+<module rename-to='trucXanh'>
+  <inherits name='playn.PlayN'/>
+
+  <source path='core'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='vn.vietnamcode.nampnq.trucXanh.html.trucXanhHtml'/>
+</module>
